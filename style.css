@@ -1,0 +1,27 @@
+.nome {
+    background-color: #D7E9F7;
+    font-family: Fjalla One, sans-serif;
+    padding: 10px;
+    color:#264653;
+  }
+
+  .textoSobre{
+    font-family: Birthstone, sans-serif;
+    font-size:30px;
+    background-color: #FDFCE5;
+
+  }
+
+.titulos {
+
+    background-color: #F4D19B;
+    text-decoration: none;
+    color:#264653;
+    
+
+  }
+
+  body {
+    background-color: #F9F3DF;
+
+  }
