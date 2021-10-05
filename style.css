@@ -3,14 +3,12 @@
     font-family: Fjalla One, sans-serif;
     padding: 10px;
     color:#264653;
-    text-align: center;
   }
 
   .textoSobre{
     font-family: Birthstone, sans-serif;
     font-size:30px;
     background-color: #FDFCE5;
-    text-align: center;
 
   }
 
@@ -19,29 +17,11 @@
     background-color: #F4D19B;
     text-decoration: none;
     color:#264653;
-    text-align: center;
     
-
-  }
-
-  .iconesRedes {
-    margin: 10px;
-    width: 50px;
-    text-align: center;
-
-  }
-
-  .listaSkill {
-
-    text-align: center;
-    list-style: none;
-    margin: 5px;
-    font-size: large;
 
   }
 
   body {
     background-color: #F9F3DF;
-
-
+    
   }
