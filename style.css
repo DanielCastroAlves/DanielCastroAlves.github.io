@@ -40,8 +40,18 @@
   .listaSkill {
 
   list-style: none;
-  display:-webkit-flex;
+  padding: 30px;
+  margin: auto;
+  width: 85%;
+  text-align: center;
       
+  }
+
+  .ordenandoSkill {
+
+    width: 30%;
+    margin: 10px;
+    display: inline-block;
   }
 
   .fotos{
